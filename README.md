@@ -7,3 +7,5 @@
 * Rails Version 5.2.3 .
 
 * Database SQLite3 .
+
+* Run 'rails server' in Login folder . 
