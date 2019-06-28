@@ -8,4 +8,4 @@
 
 * Database SQLite3 .
 
-* Run 'rails server' in Login folder . 
+* Run `rails server` in Login folder . 
