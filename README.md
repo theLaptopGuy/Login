@@ -4,6 +4,6 @@
 
 * Ruby Version 2.6.3 .
 
-* Amwesome Gem Devise .
+* Rails Version 5.2.3 .
 
 * Database SQLite3 .
